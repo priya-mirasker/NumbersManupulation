@@ -1,2 +1,2 @@
 # NumbersManupulation
-Contains classed to perform numbers manipulation effectively
+Contains classes to perform numbers manipulation effectively
